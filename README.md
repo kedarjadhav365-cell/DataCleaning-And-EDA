@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project focuses on the most critical step of data analytics: data integrity. I took a raw, messy online retail dataset and used **MySQL** to clean, standardize, and prepare the data for accurate business analysis. The goal was to eliminate anomalies so that revenue and customer behavior insights are based on reliable data.
 
-- <a href= "https://github.com/kedarjadhav365-cell/Coffee-Shop-Sales-Performance-Dashboard/blob/main/Coffee_shop_sales_analysis_project.xlsx"> Dataset </a>
 ## Dataset Used 
 
 - <a href= "https://github.com/kedarjadhav365-cell/DataCleaning-And-EDA/blob/main/Online%20Retail.xlsx" > Dataset </a>
