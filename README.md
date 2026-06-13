@@ -6,7 +6,7 @@ This project focuses on the most critical step of data analytics: data integrity
 - <a href= "https://github.com/kedarjadhav365-cell/Coffee-Shop-Sales-Performance-Dashboard/blob/main/Coffee_shop_sales_analysis_project.xlsx"> Dataset </a>
 ## Dataset Used 
 
-- <a herf= "https://github.com/kedarjadhav365-cell/DataCleaning-And-EDA/blob/main/Online%20Retail.xlsx" > Dataset </a>
+- <a href= "https://github.com/kedarjadhav365-cell/DataCleaning-And-EDA/blob/main/Online%20Retail.xlsx" > Dataset </a>
 
 ## 🛠️ Tech Stack
 * **Database:** MySQL
